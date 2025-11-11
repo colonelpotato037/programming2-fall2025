@@ -1,0 +1,5 @@
+to do list 
+
+- get different positions to be in different rows 
+- get divider(Header?) between positions 
+- finish roster page 

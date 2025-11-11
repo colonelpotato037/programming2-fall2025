@@ -39,6 +39,7 @@
 	background-image: url("https://mangadigest.wordpress.com/wp-content/uploads/2018/11/wp-1541572897143590409427.jpeg");
 	background-size: cover;
 	background-position: center;
+	border: color(blue);
 }
 .recipe.cutlet{
 	font-family: verdana;
